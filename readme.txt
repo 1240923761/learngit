@@ -1,3 +1,3 @@
 Git is a version control system.
 Git is free software distributed under the GPL.
-stupid boss
+朱薪桦是弱智
