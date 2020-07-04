@@ -1,3 +1,1 @@
-Git is a version control system.
-Git is free software distributed under the GPL.
-朱薪桦是弱智
+你是一只猪猪猪猪猪
